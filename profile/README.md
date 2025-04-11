@@ -1,5 +1,7 @@
 ## Welcome to the AI4LYF REPOSITORY
 
+![AI4LYF Logo](https://ai4lyf.com/wp-content/uploads/logo_color.webp)
+
 ### Our Vision
 Transforming the status quo reactive, expensive, sporadically accessible, and episodic "Sick care" into a predictive, preventive, personalized, continuously accessible, and affordable "healthcare" for fuller and longer lives for all.
 
